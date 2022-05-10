@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://api.lyrics.ovh",
+  "testFiles": "**/*.feature"
+}
